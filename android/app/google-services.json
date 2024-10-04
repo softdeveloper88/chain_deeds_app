@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1004621188984",
+    "project_id": "chain-of-deeds-6ac7c",
+    "storage_bucket": "chain-of-deeds-6ac7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004621188984:android:91d359050394a16282828d",
+        "android_client_info": {
+          "package_name": "com.chain.deeds.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004621188984-jah3k4et88gp5s6696j1tnuegtnfpprq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chain.deeds.app",
+            "certificate_hash": "f45b028027815e9f45e5498fa39d49fd4670402b"
+          }
+        },
+        {
+          "client_id": "1004621188984-mre2ro20hcqtv46p1bmoumeipon134io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhunpROXEvvDSzXNBHi8ax3cUtHAINOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004621188984-mre2ro20hcqtv46p1bmoumeipon134io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
